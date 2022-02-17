@@ -12,7 +12,3 @@ hr {
 h1, h3 {
   color: #28B5B5
 }
-
-img:nth-of-type(2) {
-  background-color: red
-}
