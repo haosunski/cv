@@ -1,3 +1,3 @@
 # cv
 
-Personal website simple version
+Personal website simplified version
